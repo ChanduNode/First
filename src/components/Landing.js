@@ -10,7 +10,7 @@ class Landing extends Component {
       <h4> EC2 test passed</h4>
       <h4> CI test passed</h4>
        <h4> CD test passed</h4>
-      <h6> check the changes in build  </h6>
+      <h6> deployment to another EC2 is done  </h6>
        
           </div>
         </div>
